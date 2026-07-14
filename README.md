@@ -5,4 +5,4 @@ Viscery is a open-source framework to develop SurfaceGUIs in SCP: Roleplay. With
 
 ## Documentation
 
-You can check out documentation [here!](https://viscery.github.io)
+You can check out documentation [here!](https://viscery-app.github.io)
