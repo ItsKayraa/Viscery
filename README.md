@@ -11,4 +11,4 @@ Viscery is a open-source framework to develop SurfaceGUIs in SCP: Roleplay. With
 4. Copy the configurated code.
 5. Paste it into server addons.
 6. Add Addon.
-7. To use it, look to API from [here](viscery.github.io).
+7. To use it, look to API from [here](https://viscery.github.io).
